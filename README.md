@@ -14,14 +14,13 @@
 
 * **[Price Tracker Service](https://github.com/ruslkcode/price-tracker)**
     > Automated retail price monitoring with asynchronous Telegram alerts. 
-    > *Spring Boot, Jsoup, Docker Compose*
+    > *Spring Boot, Jsoup, Docker*
 
 ---
 
-### Activity Metrics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruslkcode&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=7aa2f7&text_color=9db1c5" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruslkcode&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=9db1c5" height="165" />
+### Shhh....
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJwamN3ZzhueXp3eGZ4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" />
 </p>
 
 ---

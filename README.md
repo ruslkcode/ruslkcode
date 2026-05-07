@@ -19,8 +19,8 @@
 ---
 
 ### Shhh....
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJwamN3ZzhueXp3eGZ4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjY4bXoxOWJtODI5bmwyeXE1djRxd3JsZjl0OWdieHhqZmIxejJ2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif)" width="600" />
+<p align="left">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjY4bXoxOWJtODI5bmwyeXE1djRxd3JsZjl0OWdieHhqZmIxejJ2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif" width="400" />
 </p>
 
 ---
